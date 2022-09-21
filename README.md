@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FishKick
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C - Language
+- 🌱 I’m currently learning C and c++ - Language
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me hop.duclai30@gmail.com
 
